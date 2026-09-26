@@ -2,6 +2,8 @@
 
 Aplicativo mobile desenvolvido em **React Native com Expo e TypeScript** para criação e gerenciamento de orçamentos.
 
+![Projeto Orçamento](./assets/projeto-orcamento.png)
+
 O projeto permite cadastrar clientes, adicionar serviços, calcular valores automaticamente, aplicar descontos, controlar o status dos orçamentos e armazenar os dados localmente no dispositivo.
 
 Também foi implementada a geração de **orçamentos em PDF**, permitindo compartilhar, salvar ou imprimir o documento.
