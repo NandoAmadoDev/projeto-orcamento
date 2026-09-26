@@ -164,7 +164,7 @@ src/
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/NandoAmadoDev/projeto-orcamento.git
 ```
 
 Entre na pasta:
